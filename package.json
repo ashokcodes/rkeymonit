@@ -1,0 +1,19 @@
+{
+  "name": "rkeymonit",
+  "version": "1.0.0",
+  "description": "Monitor Redis usage ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis",
+    "monitoring"
+  ],
+  "author": "Ashok Mohanakumar",
+  "license": "ISC",
+  "dependencies": {
+    "millify": "^4.0.0",
+    "redis": "^4.0.0"
+  }
+}
